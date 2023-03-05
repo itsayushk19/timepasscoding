@@ -1,0 +1,7 @@
+mysql-connector-python==8.0.32
+protobuf==3.20.3
+colorama==0.4.4
+fake-useragent==0.1.12
+newspaper3k==0.2.8
+requests==2.26.0
+./database
